@@ -3,7 +3,7 @@ Data Scientist Nanodegree
 ## Business Understanding
 
 Airbnb is a platform of accommodation which match the needs of staying and of lending.  
-Their main source of income is **fee for host**. Basically, as the number of transactions between the host and the guest increases, their profit also increases.  
+Their main source of income is fee for host. Basically, as the number of transactions between the host and the guest increases, their profit also increases.  
 So, It is important to their business and I expect it to be one of their KPIs.
 
 
