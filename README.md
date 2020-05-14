@@ -1,5 +1,15 @@
 # CRISP-DM-on-the-Seatle-Airbnb-dataset
 Data Scientist Nanodegree
+## Business Understanding
+
+Airbnb is a platform of accommodation which match the needs of staying and of lending.  
+Their main source of income is **fee for host**. Basically, as the number of transactions between the host and the guest increases, their profit also increases.  
+So, It is important to their business and I expect it to be one of their KPIs.
+
+
+<img src="https://bmtoolbox.net/wp-content/uploads/2016/06/airbnb.jpg" width=700>
+
+ref: https://bmtoolbox.net/stories/airbnb/  
 ## Project Motivation
 Based on Cross-Industry Standard Process of Data Mining (CRISP-DM), Seatle Airbnb dataset is used which is initially hosted on kaggel platform. Three bisinuess questions were asked and answered:
 * **How long is the period available for lending by rooms?**  
