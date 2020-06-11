@@ -11,7 +11,7 @@ So, It is important to their business and I expect it to be one of their KPIs.
 
 ref: https://bmtoolbox.net/stories/airbnb/  
 ## Project Motivation
-Based on Cross-Industry Standard Process of Data Mining (CRISP-DM), Seatle Airbnb dataset is used which is initially hosted on kaggel platform. Three bisinuess questions were asked and answered:
+Based on Cross-Industry Standard Process of Data Mining (CRISP-DM), Seatle Airbnb dataset is used which is initially hosted on kaggle platform. Three bisinuess questions were asked and answered:
 * **How long is the period available for lending by rooms?**  
 * **Is there a busy season?**  
 * **Are there any trends of popular rooms?**  
