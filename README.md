@@ -1,4 +1,4 @@
-# CRISP-DM-on-the-Seatle-Airbnb-dataset
+# CRISP-DM
 Data Scientist Nanodegree
 ## Business Understanding
 
